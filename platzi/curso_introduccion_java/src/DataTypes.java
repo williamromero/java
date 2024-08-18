@@ -17,6 +17,12 @@ public class DataTypes {
         char letter = 'A';      // 2 BYTES
         boolean flag = true;    // 2 Bytes
 
+        var salary = 10000.0;
+        var pension = salary*0.03;
+        var total_salary = 1000 - pension;
+        System.out.println("Total salary: $\s" + total_salary);
+
+
 
     }
 }
