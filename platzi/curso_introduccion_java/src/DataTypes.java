@@ -21,8 +21,5 @@ public class DataTypes {
         var pension = salary*0.03;
         var total_salary = 1000 - pension;
         System.out.println("Total salary: $\s" + total_salary);
-
-
-
     }
 }

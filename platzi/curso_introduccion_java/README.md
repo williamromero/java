@@ -1,6 +1,6 @@
 ## JAVA
 
-# Datatypes
+### Datatypes
 
 | Tipo de Dato | Tamaño  | Rango de Valores                                      | Comentarios                                      |
 |--------------|---------|------------------------------------------------------|--------------------------------------------------|
@@ -14,3 +14,11 @@
 | `boolean`    | 1 bit*  | `true` o `false`                                     | Representa valores de verdad (no tiene tamaño fijo en memoria). |
 
 \* El tamaño de un `boolean` no es fijo y depende de la implementación de la JVM.
+
+### Commands
+
+Tu run a builded app:
+
+```bash
+  java -jar [filename].jar
+```
